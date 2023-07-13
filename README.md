@@ -4,7 +4,7 @@
 
 ## Welcome To My GitHub Profile ! 👋
 - 🔭 I’m currently working on k8s and Edge computing
-- 🌱 I’m currently learning k8s && golang
+- 🌱 I’m currently learning k8s && golang && java
   
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Douglas235&show_icons=true&theme=tokyonight" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-FADC6A?style=flat-square&logo=python" />
